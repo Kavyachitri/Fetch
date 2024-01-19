@@ -1,1 +1,3 @@
-# Fetch
+The Fetch API is used for making network requests, typically to a server, and handling the response. In this example, we'll fetch data from a hypothetical JSON endpoint and display it on a webpage.
+A simple HTML structure with a button to trigger the data fetch and a result container to display the fetched data. The JavaScript file contains the logic for making the fetch request and handling the response.
+The Fetch API is a modern web standard that provides a JavaScript interface for making network requests. It is designed to be more flexible and powerful than the older XMLHttpRequest, providing a cleaner and more concise syntax. The Fetch API is native to modern browsers and is commonly used to retrieve resources such as JSON, text, HTML, or even binary data from a server.
